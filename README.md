@@ -31,3 +31,6 @@ Feel free to contribute to this project by forking the repository and submitting
 ## Contact
 - Email: afiaaziz044@gmail.com
 - LinkedIn: https://www.linkedin.com/in/afia-aziz-0a65382a6/
+## Figma Design
+![Group 5](https://github.com/user-attachments/assets/b9b6ab7e-264a-49ab-bdb3-8eb154881cb4)
+
