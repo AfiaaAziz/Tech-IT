@@ -34,7 +34,7 @@ Feel free to contribute to this project by forking the repository and submitting
 ## Figma Design
 ![Tech-it Landing Page](https://github.com/user-attachments/assets/8873469b-174c-4e20-a6b1-727c976b7556)
 
-##Note
+## Note
 Figma design was made as a reference to help with the project. The original Webpage Layout has functionalities might differ.
 
 
