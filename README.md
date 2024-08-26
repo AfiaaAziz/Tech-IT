@@ -1,5 +1,4 @@
 # TECHit: Superior IT Solutions
-## Live Demo
 [Live Demo](https://afiaaaziz.github.io/Tech-IT/)
 ## Description
 TECHit is a modern website layout showcasing a range of IT services. The layout highlights the TECHit team's capabilities in delivering superior IT solutions, featuring sections such as Services, Portfolio, Testimonials, Team, and a Contact Form.
